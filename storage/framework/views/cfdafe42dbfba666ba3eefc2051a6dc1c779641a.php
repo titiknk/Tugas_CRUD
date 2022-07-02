@@ -1,0 +1,1 @@
+<h1>Titik Nur Khofifa (202069040016)</h1><?php /**PATH C:\laravel\laravel9_crud\resources\views/about.blade.php ENDPATH**/ ?>
