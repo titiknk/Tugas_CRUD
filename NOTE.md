@@ -1,7 +1,7 @@
-CATATAN 
+CATATAN :
     Saya membuat aplikasi CRUD Laravel ini melihat dari tutorial Youtube (https://www.youtube.com/c/RolloAcademy). Saya mengubah sebagian codingan tersebut, yaitu tampilan field atau tabel, isi data tabel dari Data Warga menjadi Data Pasien, tampilan awal yang seharusnya tidak diberi judul namun saya tambahkan dengan memberi judul "Data Pasien", serta mengubah warna dan tulisan pada tombol opsi.
 
-KENDALA ATAU HAMBATAN
+KENDALA ATAU HAMBATAN :
     Kendala atau hambatan yang saya temui pada saat membuat CRUD Laravel Data Pasien tersebut adalah saat saya edit data terjadi error 'undefined variable $p' itu terjadi dikarenakan value="{{$p->nama}}" pada variabel $p seharusnya menggunakan variabel $pasien yaitu value="{{$pasien->nama}}"
 
 CRUD LARAVEL DATA PASIEN
